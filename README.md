@@ -25,7 +25,8 @@ The above image showcases the main dashboard interface with key visualizations.
 
 Sample Data
 You can download the sample Excel file used for this project from the following link:
-[Attendance Sheet 2022-2023_Masked.xlsx](https://github.com/user-attachments/files/16678043/Attendance.Sheet.2022-2023_Masked.xlsx)
+[Attendance Sheet 2022-2023_Masked.xlsx](https://github.com/user-attach![proj_3](https://github.com/user-attachments/assets/e4a4bda8-f16a-4857-959f-971ec03f31a4)
+ments/files/16678043/Attendance.Sheet.2022-2023_Masked.xlsx)
 
 
 
